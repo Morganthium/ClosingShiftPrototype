@@ -1,0 +1,21 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-1-tlm",
+  "teamName": "TLM",
+  "teamMembers": [
+    {
+      "name": "Taher Mohamed",
+      "github": "tmmoh",
+      "email": "tmmoh@student.unimelb.edu.au"
+    },
+    {
+      "name": "Lynn Aye",
+      "github": "ayel-student",
+      "email": "ayel@student.unimelb.edu.au"
+    },
+    {
+      "name": "Tarish Kadam",
+      "github": "Morganthium",
+      "email": "tkadam@student.unimelb.edu.au"
+    }
+  ]
+}
